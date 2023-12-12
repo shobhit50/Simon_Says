@@ -58,6 +58,9 @@ Contributions to this project are welcome! If you'd like to improve the game, fi
 
 5. Your pull request will be reviewed, and your contributions may be merged into the main codebase.
 
+## LIVE DEMO
+   https://shobhit50.github.io/Simon_Says/
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as you see fit.
